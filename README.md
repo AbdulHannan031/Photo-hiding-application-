@@ -2,13 +2,6 @@
 
 A Flutter application for securely storing and managing photos and videos. The app includes features like a customizable splash screen, PIN setup for security, adding and managing media files, playing videos, exporting media, and deleting securely.
 
-## Screenshots
-
-
-![Splash Screen](screenshots/splash_screen.png)
-![PIN Setup](screenshots/pin_setup.png)
-![Main Screen](screenshots/main_screen.png)
-![Media Detail](screenshots/media_detail.png)
 
 ## Features
 
