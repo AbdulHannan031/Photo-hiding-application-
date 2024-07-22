@@ -1,16 +1,57 @@
-# myapp
+# Secure Media Vault
 
-A new Flutter project.
+A Flutter application for securely storing and managing photos and videos. The app includes features like a customizable splash screen, PIN setup for security, adding and managing media files, playing videos, exporting media, and deleting securely.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Splash Screen](screenshots/splash_screen.png)
+![PIN Setup](screenshots/pin_setup.png)
+![Main Screen](screenshots/main_screen.png)
+![Media Detail](screenshots/media_detail.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Customizable Splash Screen**:  customize your own.
+- **PIN Setup**: Secure your app with a personal identification number (PIN) for access control.
+- **Add and Manage Media**: Import photos and videos securely into the vault.
+- **Play Videos**: Watch videos directly within the app with built-in player controls.
+- **Export Media**: Save media files back to the device's gallery if needed.
+- **Delete Securely**: Permanently remove media files from the vault with secure deletion.
+
+## Usage
+
+To run the app, follow these steps:
+
+1. Clone the repository:
+
+   ```
+   git clone https://github.com/AbdulHannan031/Photo-hiding-application
+   ```
+
+2. Navigate into the project directory:
+
+   ```
+   cd Photo-hiding-application
+   ```
+
+3. Ensure dependencies are installed:
+
+   ```
+   flutter pub get
+   ```
+
+4. Run the app:
+
+   ```
+   flutter run
+   ```
+
+## Contributing
+
+Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or a pull request.
+
+## Credits
+
+This app was created by Abdul Hannan
+
